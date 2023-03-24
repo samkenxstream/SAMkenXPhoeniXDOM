@@ -32,7 +32,7 @@
     "@types/enzyme": "^3.10.5",
     "d3-array": "^2.4.0",
     "match-sorter": "^6.3.0",
-    "memoize-one": "^5.1.1",
+    "memoize-one": "^5.2.1",
     "react-table": "^7.8.0",
     "regenerator-runtime": "^0.13.11",
     "xss": "^1.0.10"
