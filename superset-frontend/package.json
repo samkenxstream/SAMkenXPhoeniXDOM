@@ -240,7 +240,7 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.0",
     "@testing-library/react-hooks": "^5.0.3",
-    "@testing-library/user-event": "^12.7.0",
+    "@testing-library/user-event": "^12.8.3",
     "@types/classnames": "^2.2.10",
     "@types/enzyme": "^3.10.5",
     "@types/enzyme-adapter-react-16": "^1.0.6",
