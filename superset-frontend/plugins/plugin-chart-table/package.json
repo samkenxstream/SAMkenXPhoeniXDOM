@@ -27,10 +27,10 @@
   },
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
-    "@types/d3-array": "^2.9.0",
+    "@types/d3-array": "^3.0.4",
     "@types/react-table": "^7.7.14",
     "@types/enzyme": "^3.10.5",
-    "d3-array": "^2.4.0",
+    "d3-array": "^3.2.3",
     "match-sorter": "^6.3.0",
     "memoize-one": "^5.2.1",
     "react-table": "^7.8.0",
