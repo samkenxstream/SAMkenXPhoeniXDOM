@@ -38,7 +38,7 @@
     "xss": "^1.0.14"
   },
   "devDependencies": {
-    "@testing-library/react": "^11.2.0"
+    "@testing-library/react": "^12.1.5"
   },
   "peerDependencies": {
     "@types/react": "*",
