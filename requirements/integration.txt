@@ -40,11 +40,11 @@ pip-compile-multi==2.6.3
     # via -r integration.in
 pip-tools==6.8.0
     # via pip-compile-multi
-platformdirs==3.6.0
+platformdirs==3.8.1
     # via
     #   tox
     #   virtualenv
-pluggy==1.0.0
+pluggy==1.2.0
     # via tox
 pre-commit==3.3.3
     # via -r integration.in
@@ -56,7 +56,7 @@ tomli==1.2.1
     # via pep517
 toposort==1.6
     # via pip-compile-multi
-tox==4.6.3
+tox==4.6.4
     # via -r integration.in
 virtualenv==20.23.1
     # via
