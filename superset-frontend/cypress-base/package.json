@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/querystringify": "^2.0.0",
-    "cypress": "^7.0.0",
+    "cypress": "^13.2.0",
     "eslint-plugin-cypress": "^2.12.1"
   },
   "nyc": {
